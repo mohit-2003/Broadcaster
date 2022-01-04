@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Broadcaster</string>
+    <string name="airplane_mode">Airplane Mode State Changed..</string>
+    <string name="airplane_mode_off">Airplane Mode Off..</string>
+    <string name="power_connected">Power Connected</string>
+    <string name="power_disconnected">Power Disconnected</string>
+    <string name="BATTERY_CHANGED">Battery Changed..</string>
+    <string name="BATTERY_OKAY">Battery Okay..</string>
+    <string name="BATTERY_LOW">Battery Low..</string>
+    <string name="BOOT_COMPLETED">Boot Completed..</string>
+    <string name="LOCKED_BOOT_COMPLETED">Locked Boot Completed..</string>
+    <string name="DEVICE_STORAGE_LOW">Device Storage Low..</string>
+    <string name="DEVICE_STORAGE_OKAY">Device Storage Okay..</string>
+    <string name="SHUTDOWN">Shutdown..</string>
+    <string name="CAMERA_BUTTON">Camera Button..</string>
+    <string name="NEW_OUTGOING_CALL">New Outgoing Call..</string>
+    <string name="SCREEN_OFF">Screen Off..</string>
+    <string name="SCREEN_ON">Screen On..</string>
+    <string name="WALLPAPER_CHANGED">Wallpaper Changed..</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="start_foreground_service">Start Foreground Service</string>
+</resources>
